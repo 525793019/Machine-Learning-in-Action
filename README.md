@@ -1,2 +1,2 @@
 # Machine-Learning-in-Action
-You are in a branch.
+Creating an new branch is quick AND simple.
