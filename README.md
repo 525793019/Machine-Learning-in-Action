@@ -1,2 +1,2 @@
 # Machine-Learning-in-Action
-Creating a new branch is quick and simple.
+This repository recore my machine learning's progress.
